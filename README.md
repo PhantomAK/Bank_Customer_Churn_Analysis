@@ -1,12 +1,12 @@
 # Bank_Customer_Churn_Analysis
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project analyzes customer churn behavior in a bank using structured data and applies exploratory data analysis (EDA) and classification modeling to understand and predict customer retention. The objective is to derive actionable insights from patterns and predict the likelihood of a customer leaving the bank.
 
 ---
 
-## 📁 Files
+##  Files
 
 | File | Description |
 |------|-------------|
@@ -15,7 +15,7 @@ This project analyzes customer churn behavior in a bank using structured data an
 
 ---
 
-## 🧠 Features Used
+##  Features Used
 
 The dataset includes:
 - **Demographics**: Gender, Geography, Age
@@ -25,7 +25,7 @@ The dataset includes:
 
 ---
 
-## 🔧 Steps Covered in Notebook
+##  Steps Covered in Notebook
 
 1. **Data Cleaning & Preprocessing**
    - Handling categorical variables using encoding
@@ -41,7 +41,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
 - **Age** and **Balance** strongly correlate with churn.
 - Inactive members and customers with multiple products are more likely to churn.
@@ -49,7 +49,7 @@ The dataset includes:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -57,7 +57,7 @@ The dataset includes:
 
 ---
 
-## 🎯 How to Run
+##  How to Run
 
 1. Clone the repository
 2. Make sure you have Python 3.7+ installed
