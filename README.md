@@ -1,5 +1,4 @@
 # Bank_Customer_Churn_Analysis
-# 📊 Bank Customer Churn Analysis
 
 ## 🔍 Project Overview
 
